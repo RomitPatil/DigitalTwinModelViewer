@@ -16,7 +16,7 @@
     "waveCircleData": [
         {
             "id": "week1",
-            "value": 82,
+            "value": 25,
             "mainHeading": "HVAC System A1",
             "progressTitle": "Cooling Efficiency",
             "data": {
