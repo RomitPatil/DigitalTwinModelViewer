@@ -1,0 +1,126 @@
+{
+    "chartsList": [
+        {
+            "chartId": "week1",
+            "dataPoints": [
+                {"pointIndex": 0, "dayIndex": 0, "value": 240},
+                {"pointIndex": 1, "dayIndex": 1, "value": 265},
+                {"pointIndex": 2, "dayIndex": 2, "value": 250},
+                {"pointIndex": 3, "dayIndex": 3, "value": 270},
+                {"pointIndex": 4, "dayIndex": 4, "value": 255},
+                {"pointIndex": 5, "dayIndex": 5, "value": 275},
+                {"pointIndex": 6, "dayIndex": 6, "value": 260}
+            ]
+        }
+    ],
+    "waveCircleData": [
+        {
+            "id": "week1",
+            "value": 90,
+            "mainHeading": "Zone C Status",
+            "progressTitle": "Network Performance",
+            "data": {
+                "data1": "91%",
+                "data2": "89%",
+                "data3": "90%"
+            },
+            "headings": {
+                "heading1": "Network Health",
+                "heading2": "Traffic Flow",
+                "heading3": "Security Status"
+            }
+        }
+    ],
+    "histogramData": {
+        "mainTitle": "Zone C Metrics",
+        "histograms1": [
+            {"id": "histogram1", "value": "79.6", "title": "Bandwidth"},
+            {"id": "histogram2", "value": "81.3", "title": "Throughput"},
+            {"id": "histogram3", "value": "80.9", "title": "Packets"}            
+        ],
+        "histograms2": [
+            {"id": "histogram1", "value": "78.4", "title": "Latency"},
+            {"id": "histogram2", "value": "80.7", "title": "Uptime"},
+            {"id": "histogram3", "value": "79.2", "title": "Routing"}
+        ],
+        "histograms3": [
+            {"id": "histogram1", "value": "81.5", "title": "Firewall"},
+            {"id": "histogram2", "value": "79.8", "title": "IDS/IPS"},
+            {"id": "histogram3", "value": "80.2", "title": "VPN"}
+        ],
+        "histograms4": [
+            {"id": "histogram1", "value": "79.3", "title": "QoS"},
+            {"id": "histogram2", "value": "80.9", "title": "Load Balance"},
+            {"id": "histogram3", "value": "78.5", "title": "Redundancy"}
+        ]
+    },
+    "eventPanelData": {
+        "eventPanels": [
+            {
+                "eventTitle": "India Data Centers",
+                "eventData": [
+                    {
+                        "no": "1",
+                        "name": "Mumbai DC-01",
+                        "address": "Navi Mumbai"
+                    },
+                    {
+                        "no": "2",
+                        "name": "Bangalore DC-01",
+                        "address": "Electronic City"
+                    },
+                    {
+                        "no": "3",
+                        "name": "Chennai DC-01",
+                        "address": "Ambattur"
+                    },
+                    {
+                        "no": "4",
+                        "name": "Hyderabad DC-01",
+                        "address": "Madhapur"
+                    },
+                    {
+                        "no": "5",
+                        "name": "Delhi DC-01",
+                        "address": "Noida"
+                    },
+                    {
+                        "no": "6",
+                        "name": "Pune DC-01",
+                        "address": "Hinjewadi"
+                    },
+                    {
+                        "no": "7",
+                        "name": "Mumbai DC-02",
+                        "address": "Thane"
+                    },
+                    {
+                        "no": "8",
+                        "name": "Bangalore DC-02",
+                        "address": "Whitefield"
+                    },
+                    {
+                        "no": "9",
+                        "name": "Chennai DC-02",
+                        "address": "Siruseri"
+                    },
+                    {
+                        "no": "10",
+                        "name": "Kolkata DC-01",
+                        "address": "Salt Lake"
+                    },
+                    {
+                        "no": "11",
+                        "name": "Hyderabad DC-02",
+                        "address": "Gachibowli"
+                    },
+                    {
+                        "no": "12",
+                        "name": "Delhi DC-02",
+                        "address": "Gurgaon"
+                    }
+                ]
+            }
+        ]
+    }
+} 
